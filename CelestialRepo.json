@@ -5,7 +5,7 @@
   "apps": [
     {
       "name": "Fortnite - 120FPS",
-      "bundleIdentifier": "com.epicgames.FortniteGame",
+      "bundleIdentifier": "com.epicgames.FortniteGame120",
       "developerName": "Epic Games & Celestial Devs",
       "iconURL": "https://cdn.discordapp.com/attachments/1277812554680500254/1277815911663009884/83710856-94A3-4E83-B15A-17E138DA5813.jpg?ex=66ce8a4e&is=66cd38ce&hm=86bdd99bb85f7299c6bcf5d381f2571305bb03a85b42cb21fac0f02688945881&",
       "localizedDescription": "It’s Fortnite for iOS. There is no more to say.",
@@ -77,7 +77,7 @@
     },
     {
       "name": "Fall Guys - 120FPS",
-      "bundleIdentifier": "uk.co.mediatonic.fallguys",
+      "bundleIdentifier": "uk.co.mediatonic.fallguys120",
       "developerName": "Mediatonic & Celestial Devs",
       "iconURL": "https://cdn.discordapp.com/attachments/1277812554680500254/1277812656954151045/5F10442E-A573-4964-856C-DC3D996AEE3D.jpg?ex=66cf3006&is=66cdde86&hm=76428135d623ab069d3d2f9fddd91a667291e667a967402260f7157d2d9424f6&",
       "localizedDescription": "Fall Guys on iOS. ",
