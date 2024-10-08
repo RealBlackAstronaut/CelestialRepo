@@ -13,22 +13,22 @@
       "tintColor": "848ef9",
       "versions": [
         {
-          "version": "v31.00.2",
+          "version": "v31.30.1",
           "date": "2024-08-24T18:34:10Z",
           "size": 242640000,
-          "downloadURL": "https://github.com/atellies/EpicGamesStoreIPA/releases/download/latest/Fortnite.31.00.2+UPD.CaHighFPS+SUBSTRATE.ipa"
+          "downloadURL": "https://ilovecelesital.b-cdn.net/3290458902589732withmods921841.ipa"
         }
       ],
       "size": 12375230,
-      "version": "31.00.2",
+      "version": "31.30.1",
       "versionDate": "2024-08-24T18:34:10Z",
-      "downloadURL": "https://github.com/atellies/EpicGamesStoreIPA/releases/download/latest/Fortnite.31.00.2+UPD.CaHighFPS+SUBSTRATE.ipa",
+      "downloadURL": "https://ilovecelesital.b-cdn.net/3290458902589732withmods921841.ipa",
       "appPermissions": {
 
       }
     },
     {
-      "name": "Fortnite - No FPS Patch",
+      "name": "Fortnite",
       "bundleIdentifier": "com.epicgames.FortniteGame",
       "developerName": "Epic Games & Celestial Devs",
       "iconURL": "https://cdn.discordapp.com/attachments/1277812554680500254/1277815911663009884/83710856-94A3-4E83-B15A-17E138DA5813.jpg?ex=66ce8a4e&is=66cd38ce&hm=86bdd99bb85f7299c6bcf5d381f2571305bb03a85b42cb21fac0f02688945881&",
@@ -37,22 +37,22 @@
       "tintColor": "848ef9",
       "versions": [
         {
-          "version": "v31.00.2",
+          "version": "v31.30.1",
           "date": "2024-08-24T18:34:10Z",
           "size": 242640000,
-          "downloadURL": "https://github.com/atellies/EpicGamesStoreIPA/releases/download/latest/Fortnite.31.00.2+UPD.CaHighFPS+SUBSTRATE.ipa"
+          "downloadURL": "https://ilovecelesital.b-cdn.net/3290458902589732withmods921841.ipa"
         }
       ],
       "size": 12375230,
-      "version": "31.00.2",
+      "version": "31.30.1",
       "versionDate": "2024-08-24T18:34:10Z",
-      "downloadURL": "https://github.com/atellies/EpicGamesStoreIPA/releases/download/latest/Fortnite.31.00.2+UPD.ipa",
+      "downloadURL": "https://ilovecelesital.b-cdn.net/3290458902589732withmods921841.ipa",
       "appPermissions": {
 
       }
     },
     {
-      "name": "Fall Guys",
+      "name": "Fall Guys (Outdated)",
       "bundleIdentifier": "uk.co.mediatonic.fallguys",
       "developerName": "Mediatonic & Celestial Devs",
       "iconURL": "https://cdn.discordapp.com/attachments/1277812554680500254/1277812656954151045/5F10442E-A573-4964-856C-DC3D996AEE3D.jpg?ex=66cf3006&is=66cdde86&hm=76428135d623ab069d3d2f9fddd91a667291e667a967402260f7157d2d9424f6&",
@@ -76,7 +76,7 @@
       }
     },
     {
-      "name": "Fall Guys - 120FPS",
+      "name": "Fall Guys - 120FPS (Outdated)",
       "bundleIdentifier": "uk.co.mediatonic.fallguys.120fps",
       "developerName": "Mediatonic & Celestial Devs",
       "iconURL": "https://cdn.discordapp.com/attachments/1277812554680500254/1277812656954151045/5F10442E-A573-4964-856C-DC3D996AEE3D.jpg?ex=66cf3006&is=66cdde86&hm=76428135d623ab069d3d2f9fddd91a667291e667a967402260f7157d2d9424f6&",
@@ -122,6 +122,30 @@
       "appPermissions": {
 
       }
+    },
+    {
+      "name": "Valorant",
+      "bundleIdentifier": "com.riotgames.valorant",
+      "developerName": "Riot Games & Celestial Devs",
+      "iconURL": "https://cdn2.steamgriddb.com/icon/191c62d342811d1a0d3d0528ec35cd2d/32/256x256.png",
+      "localizedDescription": "Valorant for IOS",
+      "subtitle": "Just Valorant.",
+      "tintColor": "848ef9",
+      "versions": [
+        {
+          "version": "V1.0",
+          "date": "2024-08-24T18:34:10Z",
+          "size": 3630000000,
+          "downloadURL": "https://ilovecelesital.b-cdn.net/Valorant.ipa"
+        }
+      ],
+      "size": 3630000000,
+      "version": "1.0",
+      "versionDate": "2024-08-24T18:34:10Z",
+      "downloadURL": "https://ilovecelesital.b-cdn.net/Valorant.ipa",
+      "appPermissions": {
+
+      }
     }
   ],
   "news": [
@@ -133,7 +157,17 @@
       "tintColor": "5ca399",
       "imageURL": "https://cdn.discordapp.com/attachments/1277817608099332201/1277817640441745469/IMG_3047.gif?ex=66cf34aa&is=66cde32a&hm=999a9d83b72e9d5309796ed36bf077eb8dc6a42179573b0b865701dca9ab7709&",
       "notify": true,
-      "url": "https://github.com/atellies/EpicGamesStoreIPA"
+      "url": "discord.gg/celestialios"
+    },
+    {
+      "title": "Repo finally updated!",
+      "identifier": "new_feature",
+      "caption": "Added Valorant and updated Fortnite.",
+      "date": "2024-10-08",
+      "tintColor": "5ca399",
+      "imageURL": "https://cdn.discordapp.com/attachments/1277817608099332201/1277817640441745469/IMG_3047.gif?ex=66cf34aa&is=66cde32a&hm=999a9d83b72e9d5309796ed36bf077eb8dc6a42179573b0b865701dca9ab7709&",
+      "notify": true,
+      "url": "discord.gg/celestialios"
     }
   ]
 }
